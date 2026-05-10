@@ -4,6 +4,6 @@ int main()
 {
     cout<<"hello world";
     cout<<"Hey hi";
-    cout<<"new";
+    cout<<"new 22";
     return 0;
 }
